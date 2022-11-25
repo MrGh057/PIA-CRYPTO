@@ -21,10 +21,10 @@ El sistema consiste en llo siguiente:
 
 Para windows, basta con con dar descargar el repositorio de manera gráfica
 
-## Requerimientos
+### Requerimientos
 Para facilitar la instalación de los modulos, es necesario correr el siguiente onliner en la terminal ya sea CMD, Bash, ZSH, cualquiera que sea la que utilices:
 `$ pip install requeriments.txt`
 
-## Ejecución
+### Ejecución
 No requiere de argumentos iniciales, por lo cual la ejecución de este script es de la siguiente manera:
 `$ python main.py`
